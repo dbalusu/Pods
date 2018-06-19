@@ -1,0 +1,6 @@
+framework module Pods_FleetOperateUITests {
+  umbrella header "Pods-FleetOperateUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
